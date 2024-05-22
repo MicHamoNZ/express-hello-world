@@ -13,7 +13,7 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello from Render!</title>
+    <title>Michael Hamilton</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
@@ -54,7 +54,10 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Michael Hamilton!
+      <h1>Hello from Michael Hamilton!</h1>
+      <div>
+        <p>Thanks for all the birthday wishes!</p>
+      </div>
     </section>
   </body>
 </html>
