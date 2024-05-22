@@ -54,7 +54,7 @@ const html = `
   </head>
   <body>
     <section>
-      <h1>Hello from Michael Hamilton!</h1>
+      <h1>Hello from Grumppa!</h1>
       <div>
         <p>Thanks for all the birthday wishes!</p>
       </div>
